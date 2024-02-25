@@ -1,0 +1,82 @@
+{
+  "Tripoli": {
+    "latitude": 32.8872,
+    "longitude": 13.1913
+  },
+  "Benghazi": {
+    "latitude": 32.1167,
+    "longitude": 20.0667
+  },
+  "Misrata": {
+    "latitude": 32.3783,
+    "longitude": 15.0925
+  },
+  "Sirte": {
+    "latitude": 31.2089,
+    "longitude": 16.5887
+  },
+  "Sabha": {
+    "latitude": 27.0377,
+    "longitude": 14.4283
+  },
+  "Zawiya": {
+    "latitude": 32.7522,
+    "longitude": 12.7278
+  },
+  "Al Khums": {
+    "latitude": 32.6475,
+    "longitude": 14.2619
+  },
+  "Zliten": {
+    "latitude": 32.4675,
+    "longitude": 14.5687
+  },
+  "Tobruk": {
+    "latitude": 32.0836,
+    "longitude": 23.9764
+  },
+  "Derna": {
+    "latitude": 32.7642,
+    "longitude": 22.6392
+  },
+  "Ghat": {
+    "latitude": 24.9647,
+    "longitude": 10.1728
+  },
+  "Murzuq": {
+    "latitude": 25.9042,
+    "longitude": 13.9189
+  },
+  "Waddan": {
+    "latitude": 29.1614,
+    "longitude": 16.1406
+  },
+  "Jalu": {
+    "latitude": 29.0331,
+    "longitude": 21.5482
+  },
+  "Ghadames": {
+    "latitude": 30.1347,
+    "longitude": 9.5039
+  },
+  "Tarhuna": {
+    "latitude": 32.435,
+    "longitude": 13.6336
+  },
+  "Mizdah": {
+    "latitude": 31.4481,
+    "longitude": 12.9803
+  },
+  "Awjilah": {
+    "latitude": 29.1083,
+    "longitude": 21.2869
+  },
+  "Nalut": {
+    "latitude": 30.3347,
+    "longitude": 10.8538
+  },
+  "Ubari": {
+    "latitude": 26.5921,
+    "longitude": 12.7804
+  }
+}
